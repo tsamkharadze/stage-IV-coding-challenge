@@ -77,6 +77,17 @@
   .dots {
     bottom: 5%;
   }
+
+  .carousel-container {
+    min-height: 562px;
+  }
+  .partners {
+    min-height: 359px;
+  }
+
+  .dots {
+    bottom: 10%;
+  }
 }
 
 @media (max-width: 750px) {
