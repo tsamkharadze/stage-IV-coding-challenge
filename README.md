@@ -9,7 +9,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This project is part of a joint educational initiative of TBC Academy and USAID. The task involves creating a page similar to TBC X USAID.
+This project is part of an educational project selection stage by TBC Academy and USAID. The task involves creating a page similar to TBC X USAID.
 
 ## 🤖 Technologies Used <a name="technologies_used"></a>
 
