@@ -6,6 +6,7 @@
 - [Technologies Used](#technologies_used)
 - [Project Structure](#project_structure)
 - [Getting Started](#getting_started)
+- [Webpage Preview](#webpage_preview)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -49,4 +50,8 @@ git clone https://github.com/tsamkharadze/stage-IV-coding-challenge.git
 2. Open the Webpage:
 
 Open the `index.html` file in your preferred web browser to view the webpage.
-That's it! You've successfully launched the TBC Academy Xusaid project.
+That's it! You've successfully launched the TBC Academy X USAID project.
+
+## 🌐 Webpage Preview <a name="webpage_preview"></a>
+
+Preview the webpage on the live site: [TBC X USAID Webpage](https://tsamkharadze.github.io/stage-IV-coding-challenge/)
